@@ -1,0 +1,19 @@
+[
+  {
+    "modid": "DaemonUtil",
+    "name": "DaemonUtil",
+    "description": "A small utility that I am making while I learn to mod Minecraft",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "http://daemonumbra.github.io",
+    "updateUrl": "",
+    "authorList": [
+      "DaemonUmbra"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": [
+    ]
+  }
+]
