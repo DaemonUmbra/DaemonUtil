@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "daemonutil:block/debug/bottom",
+    "up": "daemonutil:block/debug/top",
+    "north": "daemonutil:block/debug/north",
+    "east": "daemonutil:block/debug/east",
+    "south": "daemonutil:block/debug/south",
+    "west": "daemonutil:block/debug/west",
+    "particle":"daemonutil:block/debug/top"
+  }
+}

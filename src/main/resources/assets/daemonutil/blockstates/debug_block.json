@@ -1,0 +1,5 @@
+{
+  "variants":{
+    "normal":{"model":"daemonutil:debug_block"}
+  }
+}
